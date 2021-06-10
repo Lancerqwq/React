@@ -1,0 +1,26 @@
+button {
+    color: white;
+    width: 100px;
+    height: 30px;
+    margin: 2px;
+    cursor: pointer;
+}
+.btn-brown {
+    background-color: brown;
+}
+.btn-green {
+    background-color: green;
+}
+.btn-orange {
+    background-color: orangered;
+}
+.btn-blue {
+    background-color: blue;
+}
+.btn-crimson {
+    background-color: crimson;
+}
+.btn-default {
+    background-color: black;
+    color: yellow;
+}
