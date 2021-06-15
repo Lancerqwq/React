@@ -1,0 +1,39 @@
+span {
+    padding: 5px;
+}
+.pages {
+    margin: 20px 0;
+}
+.page, .current-page {
+    border: 1px solid lightgray;
+    border-radius: 100%;
+    padding: 5px 10px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+.current-page {
+    border: 2px solid gray;
+    font-weight: 700;
+}
+.postitem {
+    margin: 10px auto;
+    padding: 20px;
+    width: 700px;
+    border: 1px solid red;
+    background-color: rgb(220, 217, 185);
+}
+.title {
+    color:rgb(16, 28, 119);
+    font-size: 18px;
+}
+.autor {
+    padding: 5px;
+    text-align: right;
+}
+.autor-name {
+    color: rgb(35, 75, 237);
+    cursor: pointer;
+}
+.body {
+    text-align: justify;
+}
